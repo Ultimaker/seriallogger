@@ -1,0 +1,13 @@
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\bin\Debug\UM Serial Logger.exe.config
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\bin\Debug\UM Serial Logger.exe.manifest
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\bin\Debug\UM Serial Logger.application
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\bin\Debug\UM Serial Logger.exe
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\bin\Debug\UM Serial Logger.pdb
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\obj\Debug\UM_Serial_Logger.Form1.resources
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\obj\Debug\UM_Serial_Logger.Properties.Resources.resources
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\obj\Debug\UM Serial Logger.csproj.GenerateResource.Cache
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\obj\Debug\UM Serial Logger.exe.manifest
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\obj\Debug\UM Serial Logger.application
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\obj\Debug\UM Serial Logger.exe
+C:\Users\Rob\documents\visual studio 2013\Projects\UM Serial Logger\UM Serial Logger\obj\Debug\UM Serial Logger.pdb
+C:\Users\Rob\Documents\Visual Studio 2013\Projects\UM Serial Logger\UM Serial Logger\obj\Debug\UM Serial Logger.csprojResolveAssemblyReference.cache
